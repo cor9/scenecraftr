@@ -1,0 +1,18 @@
+{
+  "name": "scenecraftr",
+  "version": "1.0.0",
+  "description": "My cool application",
+  "main": "scene.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "airtable": "^0.12.1",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
+
